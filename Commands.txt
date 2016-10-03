@@ -1,1 +1,3 @@
-#play <URL>, #stop, #help
+# Commands:
+
+> #play <URL>, #stop, #help
